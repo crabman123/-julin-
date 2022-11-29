@@ -58,9 +58,9 @@ const config = (function(){
     },
     // type对应上面的color与font  若没有对应的 则默认为color1或font1
     dialogue:[
-      {type:6, name:'男子', txt:'快过年了，我们去放烟花吧！'},
-      {type:2, name:'女子', txt:'天还这么亮，现在放烟花也不好看。'},
-      {type:2, name:'女子', txt:'再说你那有烟花吗？'},
+      {type:6, name:'男子', txt:'快圣诞节了，我们去放烟花吧！'},
+      {type:2, name:'女子', txt:'可是现在是白天呀，放烟花我们也看不清呀'},
+      {type:2, name:'女子', txt:'再说你买了烟花吗？'},
       {type:6, name:'男子', txt:'我当然有烟花啦。'},
       {type:6, name:'男子', txt:'你那有打火机吗？'},
       {type:2, name:'女子', txt:'没有呀～'},
@@ -68,8 +68,8 @@ const config = (function(){
       {type:2, name:'女子', txt:'。。。'},
       {type:2, name:'女子', txt:'可是我的心还没有被你点燃呀。'},
       {type:6, name:'男子', txt:'别慌，我去买个打火机先。'},
-      {type:2, name:'女子', txt:'打火机可点不燃我的心。'},
-      {type:6, name:'男子', txt:'天快黑了，我要为你点燃整片天空。'},
+      {type:2, name:'女子', txt:'切~打火机可点不燃我的心。'},
+      {type:6, name:'男子', txt:'嘘！我要给你变魔法了，天变黑了耶。'},
     ],
 		// 阶段二
 		sunset: 6000,   // 天黑时间
