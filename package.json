@@ -8,16 +8,8 @@
     "dev": "webpack-dev-server",
     "build": "webpack"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/NewNewKing/MerryChristmas.git"
-  },
-  "author": "wangxingxin",
+  "author": "GuoZhengLin",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/NewNewKing/MerryChristmas/issues"
-  },
-  "homepage": "https://github.com/NewNewKing/MerryChristmas#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
